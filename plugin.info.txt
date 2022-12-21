@@ -1,0 +1,7 @@
+base    highlight
+author  Joseph Nahmias
+email   joe@nahmias.net
+date    2013-10-24
+name    Color Highlight Plugin
+desc    Highlight text with a specific color - Syntax: <hi color>highlighted content</hi>
+url     http://www.dokuwiki.org/plugin:highlight
